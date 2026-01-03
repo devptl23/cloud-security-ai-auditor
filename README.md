@@ -205,18 +205,3 @@ This project demonstrates:
 
 ---
 
-## 🤝 Contributing
-
-Have improvements? Feel free to fork and submit a PR!
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## 📞 Support
-
-For questions or issues, refer to the [AWS Security Best Practices](https://docs.aws.amazon.com/security/) and [Terraform Documentation](https://www.terraform.io/docs).
